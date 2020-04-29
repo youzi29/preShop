@@ -1,0 +1,11 @@
+@charset "utf-8";
+body{ background-color: #F7F7F7; padding-bottom: env(safe-area-inset-bottom); }
+*{ font-family: "Microsoft YaHei"; margin: 0; padding: 0; box-sizing: border-box; }
+div,p,a,button,ul,ul li,i,span,input,select{ font-size: 0.16rem; }
+i,span{ font-size: inherit; }
+a,a:hover,a:visited,a:link,a:active { color: inherit; text-decoration: none;}
+img { display: block; }
+ul { list-style: none; }
+button{ display: block; border: none; background-color: #fff; }
+
+#autotipsdiv *{ white-space: pre-wrap; white-space: -moz-pre-wrap; white-space: -pre-wrap; white-space: -o-pre-wrap; word-wrap: break-word; }

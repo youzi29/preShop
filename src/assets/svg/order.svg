@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.41;fill:#FFFFFF;enable-background:new    ;}
+	.st2{display:none;}
+	.st3{display:inline;}
+	.st4{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="900.5344" y1="-808.3594" x2="123.2156" y2="-1585.6781" gradientTransform="matrix(1 0 0 1 0 1709)">
+	<stop  offset="0" style="stop-color:#FFC682"/>
+	<stop  offset="1" style="stop-color:#FFE100"/>
+</linearGradient>
+<path class="st0" d="M665.8,998.3h-308C175.1,998.3,25.6,848.7,25.6,666V358c0-182.7,149.5-332.3,332.3-332.3h308
+	c182.7,0,332.3,149.5,332.3,332.3v308C998.1,848.7,848.6,998.3,665.8,998.3z"/>
+<rect x="311.3" y="275.8" class="st1" width="176.8" height="473.5"/>
+<rect x="545.1" y="275.8" class="st1" width="176.8" height="473.5"/>
+<g id="衣柜2" class="st2">
+	<g class="st3">
+		<g>
+			<rect x="262.5" y="221.9" class="st4" width="500.2" height="16.9"/>
+			<rect x="262.5" y="730" class="st4" width="499.5" height="16.9"/>
+			<rect x="278.4" y="747.2" class="st4" width="468.4" height="16.9"/>
+			<polygon class="st4" points="513.3,746.8 287.2,746.8 287.2,222 513.3,222 513.3,238.9 304.1,238.9 304.1,729.9 513.3,729.9 			
+				"/>
+			<polygon class="st4" points="737.3,746.8 504.1,746.8 504.1,729.9 720.4,729.9 720.4,238.9 504.1,238.9 504.1,222 737.3,222 			
+				"/>
+			<rect x="503.3" y="234.8" class="st4" width="19.1" height="512.4"/>
+			<rect x="304.1" y="735.5" class="st4" width="20.8" height="68.5"/>
+			<rect x="699.3" y="735.5" class="st4" width="20.8" height="68.5"/>
+			<path class="st4" d="M471,516.9L471,516.9c-4,0-7.2-3.3-7.2-7.2v-74.8c0-4,3.3-7.2,7.2-7.2l0,0c4,0,7.2,3.3,7.2,7.2v74.8
+				C478.2,513.6,474.9,516.9,471,516.9z"/>
+			<path class="st4" d="M554.3,516.9L554.3,516.9c-4,0-7.2-3.3-7.2-7.2v-74.8c0-4,3.3-7.2,7.2-7.2l0,0c4,0,7.2,3.3,7.2,7.2v74.8
+				C561.6,513.6,558.3,516.9,554.3,516.9z"/>
+		</g>
+	</g>
+</g>
+<path class="st4" d="M279.5,242.7h475.2c4.6,0,8.3,3.8,8.3,8.3l0,0c0,4.6-3.8,8.3-8.3,8.3H279.5c-4.6,0-8.3-3.8-8.3-8.3l0,0
+	C271.2,246.4,275,242.7,279.5,242.7z"/>
+<path class="st4" d="M279.5,742.4H754c4.6,0,8.3,3.8,8.3,8.3l0,0c0,4.6-3.8,8.3-8.3,8.3H279.5c-4.6,0-8.3-3.8-8.3-8.3l0,0
+	C271.2,746.1,275,742.4,279.5,742.4z"/>
+<rect x="286.8" y="759.3" class="st4" width="460.7" height="16.7"/>
+<polygon class="st4" points="517.9,758.8 295.5,758.8 295.5,242.8 517.9,242.8 517.9,259.3 312.1,259.3 312.1,742.3 517.9,742.3 "/>
+<polygon class="st4" points="738.2,758.8 508.8,758.8 508.8,742.3 721.6,742.3 721.6,259.3 508.8,259.3 508.8,242.8 738.2,242.8 "/>
+<rect x="508" y="255.4" class="st4" width="18.8" height="504"/>
+<rect x="312.1" y="747.7" class="st4" width="20.5" height="67.5"/>
+<rect x="700.8" y="747.7" class="st4" width="20.5" height="67.5"/>
+<path class="st4" d="M476.2,532.8L476.2,532.8c-3.9,0-7-3.2-7-7v-73.5c0-3.9,3.2-7,7-7l0,0c3.9,0,7,3.2,7,7v73.5
+	C483.3,529.5,480.1,532.8,476.2,532.8z"/>
+<path class="st4" d="M558.3,532.8L558.3,532.8c-3.9,0-7-3.2-7-7v-73.5c0-3.9,3.2-7,7-7l0,0c3.9,0,7,3.2,7,7v73.5
+	C565.4,529.5,562.1,532.8,558.3,532.8z"/>
+</svg>
